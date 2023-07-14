@@ -208,6 +208,7 @@ public class ResourceCentre {
 		Chromebook item;
 		for(int i = 0; i < chromebookList.size(); i++) {
 			item = chromebookList.get(i);
+			
 			if (item.getAssetTag().equalsIgnoreCase(cb.getAssetTag()) )
 				return;
 		}
