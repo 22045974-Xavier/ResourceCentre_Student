@@ -269,7 +269,7 @@ public class ResourceCentreTest {
         isReturned = ResourceCentre.doReturnChromebook(chromebookList, "CB0013");
         assertFalse("Test the the return of CB0013 fails.", isReturned);  	
 	}
-
+	
 	@After
 	public void tearDown() throws Exception {
 		cc1 = null;
