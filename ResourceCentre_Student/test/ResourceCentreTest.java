@@ -37,7 +37,6 @@ public class ResourceCentreTest {
 		chromebookList= new ArrayList<Chromebook>();
 	}
 
-
 	@Test
 	public void testAddCamcorder() {
 		// Item list is not null and it is empty
