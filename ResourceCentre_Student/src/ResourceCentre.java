@@ -157,6 +157,7 @@ public class ResourceCentre {
 	            chromebookList.get(i).getDescription(), 
 	          ResourceCentre.showAvailability(chromebookList.get(i).getIsAvailable()),
 	          chromebookList.get(i).getDueDate(),chromebookList.get(i).getOs());
+	        
 	      }
 	    }
 		return output;
