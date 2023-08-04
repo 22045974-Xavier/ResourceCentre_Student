@@ -132,6 +132,7 @@ public class ResourceCentreTest {
 		//fail("Not yet implemented");
 		// write your code here
 		
+		
 		 //Test Case 1
         // Test if Item list is not null and empty
         assertNotNull("Test if there is valid Camcorder arraylist to add to", chromebookList);
